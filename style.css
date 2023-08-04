@@ -1,0 +1,57 @@
+body{
+    background-image: url(pizzatop.jpg);
+    background-size: cover;}
+h3{
+    color:yellow;
+    text-align: center;
+}
+header {
+    background-color:black;
+    color: white;
+
+}
+button{
+    background-color: yellow;
+    padding: 30px;
+    border-radius: 10px;
+    border-color:yellow;
+
+}
+
+h1{
+    color:yellow;
+    text-align: center;
+}
+
+nav{
+    
+    background-color:black;
+    border-radius: 12px;
+    padding: 14px;
+}
+ul{
+    justify-content: end;
+    margin-left: 1350px;
+}
+ul li{
+    text-decoration: none;
+    text-decoration-line: none;
+    display: inline;     
+    color: white;   
+    text-align: center; 
+    justify-content: end;
+                                                                                                                                                                                                                                   
+}
+li{
+    padding-left: 20px;
+    
+}
+ul li:hover{
+    padding: 30px 10px 25px 5px;
+    
+    border-bottom: 6px solid yellow;
+ }
+img {
+    width: 90px;
+    justify-self: unset;
+}
